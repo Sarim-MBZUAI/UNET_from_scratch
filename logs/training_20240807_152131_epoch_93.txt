@@ -1,0 +1,2 @@
+Epoch 93/100, Average Train Loss: 0.0840
+Epoch 93/100, Validation Score: 0.9167

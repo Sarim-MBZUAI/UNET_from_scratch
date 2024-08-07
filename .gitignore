@@ -1,4 +1,5 @@
-*.pth.tarmy_checkpoint.pth.tar
+*.pth.tar
+my_checkpoint.pth.tar
 wandb/
 .git_old/
 wandb/

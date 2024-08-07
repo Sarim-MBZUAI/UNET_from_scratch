@@ -1,0 +1,7 @@
+Starting training process
+Device: cuda
+Train dataset size: 5911
+Validation dataset size: 1478
+Epoch 1/100, Average Train Loss: 0.4141
+Epoch 1/100, Validation Score: 0.7635
+New best model saved. Best validation score: 0.7635
